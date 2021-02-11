@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Jai Shankar G.
+
+I'm a Passionate Programmer.
 <!--
 **jaishankarg24/jaishankarg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
